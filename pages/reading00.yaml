@@ -75,16 +75,17 @@ body:       |
 
     > [https://notredame.zoom.us/j/96051200559](https://notredame.zoom.us/j/96051200559)
 
-    ### Notes
+    <div class="alert alert-warning" markdown="1">
+    #### Notes
 
-    - You will need to signup and create a [Zoom] account if you don't already
-      have one.  We recommend that you use the Notre Dame [Zoom] login system.
+    - You will need to use the Notre Dame [Zoom] login system.
 
     - You will need to download and install the [Zoom] client to perform video
       conferencing.
 
     - By default, you microphone will be **muted**.  To speak, you will need to
       manually unmute it.
+    </div>
 
     [meeting link]: https://notredame.zoom.us/j/96051200559
 
@@ -100,7 +101,8 @@ body:       |
 
     [class mailing list]: su21-cse-34872-01-group@nd.edu
 
-    ### Notes
+    <div class="alert alert-warning" markdown="1">
+    #### Notes
 
     - You will need to signup and create a [Slack] account if you don't already
       have one.
@@ -109,6 +111,7 @@ body:       |
       (there are also mobile applications as well).
 
     - Feel free to join any other channels that may interest you.
+    </div>
 
     ## Task 3: GitHub
 
@@ -131,8 +134,11 @@ body:       |
             :::bash
             $ git clone https://github.com/nd-cse-34872-su21/cse-34872-su21-assignments-$USERNAME.git
 
+
+        <div class="alert alert-info" markdown="1">
         Please update the `README.md` file to include your **name** and
         **NetID** so it is straightforward to identify your account.
+        </div>
 
         <div class="alert alert-success" markdown="1">
         **Note**: If you have not done so already, you should consider setting
