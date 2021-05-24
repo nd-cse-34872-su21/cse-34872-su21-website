@@ -4,6 +4,9 @@
         topics:         Orientation
         assignments:
           - Reading 00
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1b5gPOxxYlX8irXupqbyCgVRQ2pKYiyG6p5WR9z3vGLI/edit?usp=sharing
 
 - name:     I/O, Sequence Containers
   days:
