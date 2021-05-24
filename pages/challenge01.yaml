@@ -193,12 +193,12 @@ body:       |
         # Manually test program
         $ ./program < input.txt | diff -u - output.txt
 
-    To access a special debugging mode of the `submit.py` script, you can use
+    To access a special debugging mode of the `check.py` script, you can use
     the following to get the output ofr [dredd].
 
         :::bash
         # Get debugging output from dredd
-        $ DEBUG=1 ../.scripts/submit.py
+        $ DEBUG=1 ../.scripts/check.py
 
     </div>
 
