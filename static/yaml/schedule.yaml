@@ -20,6 +20,9 @@
 
       - date:           Wed 06/02
         topics:         Arrays, Lists, Stacks, Queues
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1EvP3o245J3p2_Xg7ly3m_5zlWW1myw-7xHRuFRlYB8s/edit?usp=sharing
 
       - date:           Sat 06/05
         assignments:
