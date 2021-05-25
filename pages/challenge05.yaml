@@ -63,9 +63,21 @@ body:       |
     two times where there are a maximum of `3` events happening at once.
     Therefore [Ramzi] would have to reserve three rooms for these concurrent
     events.
-
+    
     <div class="thumbnail">
     <img src="static/img/challenge05-concurrent-events.png" class="img-responsive">
+    </div>
+
+    <div class="alert alert-warning" markdown="1">
+    #### <i class="fa fa-users"></i> Separate Rooms
+
+    While it is tempting to schedule the same room for back-to-back events such
+    as in the intervals `(1, 3)` and `(3, 5)`, as you all know, it takes some
+    time for people to both enter and leave a room.  Therefore, events that
+    **start** at the same time as another event **ends** would require a
+    **separate room** to accommodate the flow of traffic.  That is why the test
+    case on the left requires `3` rooms instead of `2`.
+
     </div>
 
     Because you are [CSE] students, however, [Ramzi] wants you to automate the
