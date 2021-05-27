@@ -7,10 +7,10 @@ body:       |
 
     <img src="static/img/challenge08-joshi.jpg" class="pull-right img-rounded">
 
-    Tanner and Josh are in the **Logic Design** lab helping [Siddharth] debug
-    some finicky **FPGAs**.  To track down one of the errors in their circuit,
-    they have to analyze a series of **bitstreams** (ie. **32-bit integers**)
-    and count how many times a particular **mask** appears in each
+    Tanner and Josh[^1] are in the **Logic Design** lab helping [Siddharth]
+    debug some finicky **FPGAs**.  To track down one of the errors in their
+    circuit, they have to analyze a series of **bitstreams** (ie. **32-bit
+    integers**) and count how many times a particular **mask** appears in each
     **bitstream**.
 
     For instance, given a **mask** of `1001` (ie. `9` in **hexadecimal**) and a
@@ -28,12 +28,13 @@ body:       |
     </div>
 
     Unfortunately, since Tanner and Josh are **CPEGs**, software is not really
-    their strong suit[^1].  Therefore, they want you to help them write a
+    their strong suit[^2].  Therefore, they want you to help them write a
     program that analyzes **bitstreams** and counts the number of times a
     **mask** appears in the sequence of bits.
 
     [Siddharth]: https://siddharth-joshi.com/
-    [^1]: Not *really* true.  Some of the best programmers in the department are **CPEGs**.
+    [^1]: Winners of the [CSE 34872 Programming Challenges (Summer 2020)](https://www3.nd.edu/~pbui/teaching/cse.34872.su20) Programming Contest.
+    [^2]: Not *really* true.  Some of the best programmers in the department are **CPEGs**.
 
     ## Input
 
