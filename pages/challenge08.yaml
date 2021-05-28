@@ -48,7 +48,8 @@ body:       |
         F 127
 
     <div class="alert alert-warning" markdown="1">
-    **Note**: Each **integer** `bitstream` is a **32-bit integer**.
+    **Note**: Each **mask** is **4 bits**, while **integer** `bitstream` is a
+      **32-bit integer**.
     </div>
 
     ## Output
