@@ -17,6 +17,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1pHQIaus8uCE4X2HonE00Nq9UDp87e7CRl9US3O0t668/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=41683c6d-1150-471f-83b2-ad3a0018be98
 
       - date:           Wed 06/02
         topics:         Arrays, Lists, Stacks, Queues
