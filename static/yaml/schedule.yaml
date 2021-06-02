@@ -104,6 +104,9 @@
         topics:         Representation, Traversal
         assignments:
           - Reading 05
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1iD-Fwntk9p5oZdRm2qkBd2fwrn0iC6RPouhO78yNnE4/edit?usp=sharing
 
       - date:           Wed 06/30
         topics:         Divide and Conquer
