@@ -45,6 +45,8 @@ body:       |
     loadQuiz('static/json/reading06.json');
     </script>
 
+    <pre style="display: none;" id="dr-container" class="codehilite"><code id="dredd-response"></code></pre>
+
     ## Submission
 
     To submit you work, follow the same process outlined in [Reading 01]:
