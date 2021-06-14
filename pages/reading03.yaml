@@ -81,7 +81,7 @@ body:       |
           Status Success
 
         $ git add answers.json                # Add answers.json to staging area
-        $ git commit -m "Reading 04: Done"    # Commit work
+        $ git commit -m "Reading 03: Done"    # Commit work
 
         $ git push -u origin reading03        # Push branch to GitHub
 
