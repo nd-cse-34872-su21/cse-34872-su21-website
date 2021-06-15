@@ -110,7 +110,7 @@ body:       |
       <tbody>
         <tr>
           <td width="125px">**Time Complexity**</td>
-          <td>`O(2**N)`, where `N` is the number of hops.</td>
+          <td>`O(N!)`, where `N` is the number of hops.</td>
         </tr>
         <tr>
           <td>**Space Complexity**</td>
