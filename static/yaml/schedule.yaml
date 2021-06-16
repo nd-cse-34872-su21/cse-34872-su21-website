@@ -69,6 +69,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1tN-ZyjfhkxnAVR6giKztHL9Hvviy4GB4VEVxGkLUVdY/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ff0450f-fcd6-406b-b957-ad48001edbf3
 
       - date:           Wed 06/16
         topics:         Bit Manipulation, Greedy Algorithms
