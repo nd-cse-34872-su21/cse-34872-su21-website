@@ -103,6 +103,9 @@
 
       - date:           Wed 06/23
         topics:         Table Building
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3005af8a-5127-4e0b-8931-ad510016b0c1
 
       - date:           Sat 06/26
         assignments:
