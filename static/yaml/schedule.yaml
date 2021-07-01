@@ -127,6 +127,9 @@
 
       - date:           Wed 06/30
         topics:         Divide and Conquer
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59fbf779-a43e-4e6e-bf1e-ad58001cb1e0
 
       - date:           Sat 07/03
         assignments:
