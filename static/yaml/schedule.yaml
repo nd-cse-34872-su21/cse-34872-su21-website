@@ -146,6 +146,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1GwQyyc4I8zVBAOy6Gg3tv_wavV6OZFRK_t8I8MUFnyk/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a000473f-66b3-4e45-8838-ad5d0019b5b2
 
       - date:           Wed 07/08
         topics:         Shortest Paths, Spanning Trees
