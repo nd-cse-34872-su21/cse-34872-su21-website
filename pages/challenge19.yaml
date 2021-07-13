@@ -65,7 +65,7 @@ body:       |
       <tbody>
         <tr>
           <td>**Time Complexity**</td>
-          <td>`O(VlogV)`, where `V` is the number of digits in the passcode.</td>
+          <td>`O(V+E)`, where `V` is the number of digits in the passcode and `E` is the number of edges in **DAG**.</td>
         </tr>
         <tr>
           <td>**Space Complexity**</td>
