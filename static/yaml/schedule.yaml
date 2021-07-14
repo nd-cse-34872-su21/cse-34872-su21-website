@@ -170,6 +170,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/14Iuuux7p_6KiTTLaCdEBcRSHl6D-9tOgsyKySGRi2Z4/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87189a38-350b-42d5-bf93-ad64001cfb2e
 
       - date:           Wed 07/14
         topics:         Paths, Flows and Cuts
