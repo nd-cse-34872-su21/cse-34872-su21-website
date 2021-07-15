@@ -175,6 +175,9 @@
 
       - date:           Wed 07/14
         topics:         Paths, Flows and Cuts
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db8fa3ba-980c-43cf-b522-ad6600136d6f
 
       - date:           Sat 07/17
         assignments:
